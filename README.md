@@ -1,4 +1,5 @@
-<img src="BORN2BEROOT.png" alt="logo_b2r" style="width: 100%">
+<img src="utils/b2r_banner.png" alt="logo_b2r" style="width: 100%">
+<img src="utils/b2r_logo.png" alt="logo_b2r" style="width: 100%">
 
 <br>
 
